@@ -6,8 +6,10 @@
 * Jupyter5.x
 
 * PreInstalled Enviroment : https://github.com/Finfra/gdm
-
+# this is mine!!!
 # BUGS
+# yest it
+this is mine
 
 Please report bugs to nowage[at]gmail.com.
 
